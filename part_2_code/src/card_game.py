@@ -2,10 +2,9 @@
 
 # Carry out dynamic testing on the code below.
 
-# Correct the errors below that you spotted in task 1.
+# Correct the errors below that you spotted in task 
 
 class CardGame:
-
 
   def check_for_ace(self, card):
     if card.value == 1:
